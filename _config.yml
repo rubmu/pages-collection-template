@@ -5,12 +5,12 @@
 # Site settings
 
 # title of site appears in banner
-title: GH-Pages Collection
+title: Symposium Collection
 # tagline appears in banner
-tagline: a theme for building simple digital exhibits
+tagline: a demo of pages-collection
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A more complete description that will appear in meta tags and on the index page as a teaser."
+description: "A collection of interesting objects digitized by the summer symposium 2018."
 # keywords appear in meta tags
 keywords: "university of idaho, digital collections, digital humanities"
 # creator of the digital collection, to appear in meta tags
