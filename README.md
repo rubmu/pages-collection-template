@@ -1,5 +1,7 @@
 # pages-collection-template
 
+**Active Development on this project has moved to [CollectionBuilder-GH](https://github.com/CollectionBuilder/collectionbuilder-gh)**
+
 Prototype project to generate a free and simple digital collection site using [gh-pages](https://pages.github.com/) given:
 
 - a CSV of collection metadata
